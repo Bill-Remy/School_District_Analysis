@@ -30,9 +30,9 @@ The orginal data set contained data for fifteen schools with 39,170 students and
 
 <img src="Resources/District summary before.png" alt="Resources/District summary before.png" width="700" height="75">
 
-Thomas High School has an enrollment of 1,635 students and a per student spending of $638.  Thomas High is also medium size Charter school.  There were 461 Freshman student records removed from the analysis per the request from the District.
+The District Performance after removing the THS Freshman data is shown below.
 
-
+<img src="Resources/District summary after.png" alt="Resources/District summary after.png" width="700" height="75">
 
 
 
