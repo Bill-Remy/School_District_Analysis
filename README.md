@@ -34,5 +34,6 @@ The District Performance after removing the THS Freshman data is shown below.
 
 <img src="Resources/District summary after.png" alt="Resources/District summary after.png" width="700" height="75">
 
+The change reflects removing 461 students from the total district enrollment.  The overall reading and math scores were not significantly impacted by the change.
 
 
