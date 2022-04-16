@@ -44,8 +44,9 @@ The Thomas High Schools individual summary data prior to removing the freshman i
 <img src="Resources/THS Summary before.png" alt="Resources/THS Summary before.png" width="1000" >
 
 After removing the data, the revised reading and math performance is in the following table.
+
 <img src="Resources/School summary header.png" alt="Resources/School summary header.png" with="300">
-<img src="Resources/THS Summary after.png" alt="Resources/THS Summary after.png" width="1000" >
+<img src="Resources/THS Summary after.png" alt="Resources/THS Summary after.png" width="11000" >
 
 
 
