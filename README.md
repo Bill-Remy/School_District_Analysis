@@ -28,7 +28,7 @@ After remving the data, the analysis of the district and schools was redone with
 #  Analytical Results
 The orginal data set and district summary is shown below.
 
-<img src="Resources/District summary frame.png" alt="Resources/District summary frame.png" width="300">
+<img src="Resources/District summary frame.png" alt="Resources/District summary frame.png" width="500">
 
 
 b
