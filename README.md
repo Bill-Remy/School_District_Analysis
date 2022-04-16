@@ -29,6 +29,7 @@ After remving the data, the analysis of the district and schools was redone with
 The orginal data set and district summary is shown below.
 
 <img src="Resources/District summary frame-Copy.png" alt="Resources/District summary frame-Copy.png" width="300">
+<img src="Resource/District summary frame-Copy.png" alt="Resources/District summary frame-Copy.png".
 
 b
 Thomas High 1635 students - 461 Freshman removed
