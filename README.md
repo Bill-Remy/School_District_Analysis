@@ -30,10 +30,16 @@ The orginal data set contained data for fifteen schools with 39,170 students and
 
 <img src="Resources/District summary before.png" alt="Resources/District summary before.png" width="700" height="75">
 
+
 The District Performance after removing the THS Freshman data is shown below.
 
 <img src="Resources/District summary after.png" alt="Resources/District summary after.png" width="700" height="75">
 
 The change reflects removing 461 students from the total district enrollment.  The overall reading and math scores were not significantly impacted by the change.  Removing the 461 students was a little more than 1% of the total population and that the averge of their scores were very close to the population average.
+
+
+The Thomas High Schools individual summary data prior to removing the freshman is shown below:
+
+<img src="Resources/THS summary before.png" alt="Resources/THS summary before.png" width="700" height="75">
 
 
