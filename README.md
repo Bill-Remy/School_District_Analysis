@@ -18,6 +18,13 @@ The District asked to see how the analysis was impacted by the removal of the TH
     - Scores by school spending
     - Scores by school size
     - Scores by school type
+# Analytical Mehtods
+In order to removed the THS Freshman data from the analysis the following steps were used:
+- Locate all the THS Freshman records in the data set
+- Set the math and reading scores to null
+- Remove or drop the THS records with "null" values
+- Re-run the entire analysis on the remaining data
+#  Analytical Results
 
 
 Thomas High 1635 students - 461 Freshman removed
