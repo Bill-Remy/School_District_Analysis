@@ -39,7 +39,7 @@ The change reflects removing 461 students from the total district enrollment.  T
 
 
 The Thomas High Schools individual summary data prior to removing the freshman is shown below:
-
+<img src"Resource/School summary header.png" alt="Resources/School summary header.png" with="800" height="75"?
 <img src="Resources/THS Summary before.png" alt="Resources/THS Summary before.png" width="800" height="75">
 
 After removing the data, the revised reading and math performance is in the following table.
