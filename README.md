@@ -24,15 +24,15 @@ In order to remove the THS Freshman data from the analysis the following steps w
 - Set the math and reading scores to null
 - Remove or drop the THS records with "null" values
 
-After remving the data, the analysis of the district and schools was redone with the revised data set.
+After removing the data, the analysis of the district and schools was repeated with the revised data set.
 #  Analytical Results
 The orginal data set contained data for fifteen schools with 39,170 students and a total budget or $24.6M.  The summary performance statistics are shown in the District Summary Table below.
 
 <img src="Resources/District summary frame.png" alt="Resources/District summary frame.png" width="600" height="100">
 
+Thomas High School has an enrollment of 1,635 students and a per student spending of $638.  Thomas High is also medium size Charter school.  There were 461 Freshman student records removed from the analysis per the request from the District.
 
-b
-Thomas High 1635 students - 461 Freshman removed
-Spending per student $638
-Size Medium
-Type = Charter
+
+
+
+
