@@ -31,7 +31,7 @@ The orginal data set contained data for fifteen schools with 39,170 students and
 <img src="Resources/District summary before.png" alt="Resources/District summary before.png" width="700" height="75">
 
 
-The District Performance after removing the THS Freshman data is shown below.
+The District Performance after removing the Thomas High School Freshman data is shown below.
 
 <img src="Resources/Revised district summary.png" alt="Resources/Revised district summary.png" width="700" height="75">
 
