@@ -38,7 +38,7 @@ The District Performance after removing the Thomas High School Freshman data is 
 
 The change reflects removing scores for 461 students from the District Summary data.  The average reading scores for THS Freshman would have been 87.4 which is significantly higher than the district average while their average math scores were at the district average if 81.9.  The THS Freshman had a percentage passing greater than 90% for all three categories which was much greater than the district average.  While not conclusive of any academic misconduct the performance of the THS Freshman is better than would normally be expected.
 
-## How is the school summary affected?
+-    ## How is the school summary affected?
 The Thomas High Schools individual summary data prior to removing the freshman scores is shown below:
 
 <img src="Resources/School summary header.png" alt="Resources/Schol summary header.png" with="300">
