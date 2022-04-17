@@ -44,10 +44,21 @@ The Thomas High Schools individual summary data prior to removing the freshman s
 <img src="Resources/School summary header.png" alt="Resources/Schol summary header.png" with="300">
 <img src="Resources/THS Summary before.png" alt="Resources/THS Summary before.png" width="1000" >
 
-After removing the data, the revised reading and math performance is in the following table.
+After removing the scores for the freshman, the revised reading and math performance is in the following table.
 
 <img src="Resources/School summary header.png" alt="Resources/School summary header.png" with="300">
 <img src="Resources/THS Summary after.png" alt="Resources/THS Summary after.png" width="11000" >
 
+The THS specific performance data is similar to the District Summary in the impact of removing the scores.  The THS Freshman were performance significantly above the rest of the school in reading and math.  Their passing percentages were much higher since after removing their scores the rest of the school passing percentage was much lower.
 
+##  THS Performance to Other Schools
+After removing the scores, THS performance relative to other schools dropped measuably in the percentage passing performance.  In Math, Reading and Overall percents prior to removing the data, THS was above 90% in all three measures.  After removing the data, their percantage passing dropped to 66-69% ranges.  The scores removed would have been substantially higher than the rest of the school.
+
+##  Math and Reading by Grade
+
+## School Spending Comparison
+
+## Shool Size Comparison
+
+## School Type Comparison
 
