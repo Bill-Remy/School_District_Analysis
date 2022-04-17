@@ -26,6 +26,7 @@ In order to remove the THS Freshman data from the analysis the following steps w
 
 After removing the data, the analysis of the district and schools was repeated with the revised data set.
 #  Analytical Results
+## How is the district summary affected?
 The orginal data set contained data for fifteen schools with 39,170 students and a total budget or $24.6M.  The summary performance statistics are shown in the District Summary Table below.
 
 <img src="Resources/District summary before.png" alt="Resources/District summary before.png" width="700" height="75">
