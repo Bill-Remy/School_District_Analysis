@@ -26,7 +26,7 @@ In order to remove the THS Freshman data from the analysis the following steps w
 
 After removing the data, the analysis of the district and schools was repeated with the revised data set.
 #  Analytical Results
-## How is the district summary affected?
+-    ## How is the district summary affected?
 The orginal data set contained data for fifteen schools with 39,170 students and a total budget or $24.6M.  The summary performance statistics are shown in the District Summary Table below.
 
 <img src="Resources/District summary before.png" alt="Resources/District summary before.png" width="700" height="75">
@@ -51,14 +51,14 @@ After removing the scores for the freshman, the revised reading and math perform
 
 The THS specific performance data is similar to the District Summary in the impact of removing the scores.  The THS Freshman were performance significantly above the rest of the school in reading and math.  Their passing percentages were much higher since after removing their scores the rest of the school passing percentage was much lower.
 
-##  THS Performance to Other Schools
+-    ##  THS Performance to Other Schools
 After removing the scores, THS performance relative to other schools dropped measuably in the percentage passing performance.  In Math, Reading and Overall percents prior to removing the data, THS was above 90% in all three measures.  After removing the data, their percantage passing dropped to 66-69% ranges.  The scores removed would have been substantially higher than the rest of the school.
 
-##  Math and Reading by Grade
+-    ##  Math and Reading by Grade
 
-## School Spending Comparison
+-    ## School Spending Comparison
 
-## Shool Size Comparison
+-    ## Shool Size Comparison
 
-## School Type Comparison
+-    ## School Type Comparison
 
