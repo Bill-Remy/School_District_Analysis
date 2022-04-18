@@ -66,6 +66,7 @@ After removing the scores the performance by spending categories was -
 
 <img src="Resources/performance by spending after.png" alt="Resources/performance by spending after.png" width="700" height="100">
 
+Thomas High School data is in the spending category of $631-$645 per student.  After removing the Freshman scores the performance in all categories improved.  
 
 -    ## Shool Size Comparison
 The school performance by size before removing the data
