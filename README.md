@@ -60,7 +60,7 @@ After removing the scores, THS performance relative to other schools dropped mea
 
 Performance of schools by spending per student before -
 
-<img src="Resources/performance by spending before.png" alt="Resources/performance by spending before.png" width="800" height="100">
+<img src="Resources/performance by spending before.png" alt="Resources/performance by spending before.png" width="700" height="100">
 
 -    ## Shool Size Comparison
 The school performance by size before removing the data
