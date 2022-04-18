@@ -59,9 +59,11 @@ After removing the scores, THS performance relative to other schools dropped mea
 -    ## School Spending Comparison
 
 -    ## Shool Size Comparison
-The school performance by size before removing the data - <img src="Resources/performance by size before1.png" alt="Resources/performance by size before1.png" width="600">
+The school performance by size before removing the data -<img src="Resources/performance by size before1.png" alt="Resources/performance by size before1.png" width="600">
 
 The school performance by size after is - <img src="Resources/performance by size after1.png" alt="Resources/performance by size after1.png" width="600">
+
+Removing the Freshman scores did not change the performance of schools by size.
 -    ## School Type Comparison
    The school performance by type, shown below, was prior to removing the THS Freshman data.
 <img src="Resources/performance by type before1.png" alt="Resources/performance by type before1.png" width="500">  
