@@ -55,6 +55,9 @@ The THS specific performance data is similar to the District Summary in the impa
 After removing the scores, THS performance relative to other schools dropped measuably in the percentage passing performance.  In Math, Reading and Overall percents prior to removing the data, THS was above 90% in all three measures.  After removing the data, their percantage passing dropped to 66-69% ranges.  The scores removed would have been substantially higher than the rest of the school.
 
 -    ##  Math and Reading by Grade
+After replacing the THS Freshman math and reading scores with null values, you can see in the data frame prints for both that the "nan" appears instead of a score as shown in the Reading Scores by Grade frame below.  The math frame would look similar.
+
+<img src="Resources/THS Reading Scores by Grade.png" alt="Resources/THS Reading Scores by Grade.png" width ="700" height="100">
 
 -    ## School Spending Comparison
 
