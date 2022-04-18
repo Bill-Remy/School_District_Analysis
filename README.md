@@ -62,6 +62,11 @@ Performance of schools by spending per student before -
 
 <img src="Resources/performance by spending before.png" alt="Resources/performance by spending before.png" width="700" height="100">
 
+After removing the scores the performance by spending categories was -
+
+<img src="Resources/performance by spending after.png" alt="Resources/performance by spending after.png" width="700" height="100">
+
+
 -    ## Shool Size Comparison
 The school performance by size before removing the data
 
