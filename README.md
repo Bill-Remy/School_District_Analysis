@@ -64,6 +64,7 @@ After removing the scores, THS performance relative to other schools dropped mea
    The school performance by type, shown below, was prior to removing the THS Freshman data.
 <img src="Resources/performance by type before1.png" alt="Resources/performance by type before1.png" title="Performance by Type - Before" width="500">  
 The performance by type after removing the data is below.
+
 <img src="Resources/performance by type after.png" alt="Resources/performance by type after.png" width="500"> 
 
 
