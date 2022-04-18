@@ -61,8 +61,8 @@ After removing the scores, THS performance relative to other schools dropped mea
 -    ## Shool Size Comparison
 
 -    ## School Type Comparison
-
+<figure>
 <img src="Resources/performance by type before1.png" alt="Resources/performance by type before1.png" width="500">  
-<figcaption align = "center"><b>School Performance by Type Before</b></figcaption>
-
+    <figcaption align = "center"><b>School Performance by Type Before</b></figcaption>
+</figure>
 <img src="Resources/performance by type after.png" alt="Resources/performance by type after.png" width="500"> 
