@@ -36,7 +36,7 @@ The District Performance after removing the Thomas High School Freshman data is 
 
 <img src="Resources/Revised district summary.png" alt="Resources/Revised district summary.png" width="700" height="75">
 
-The change reflects removing scores for 461 student scores from the District Summary data. Removing the scores by replacing them with "null" values casued the percent passing in reading, math and overall to drop only small amounts at the District level.
+The change reflects removing scores for 461 student scores from the District Summary data. Removing the scores by replacing them with "null" values caused the percent passing in reading, math and overall to drop only small amounts at the District level.
 
 -    ## How is the school summary affected?
 The Thomas High Schools individual summary data prior to removing the freshman scores is shown below:
