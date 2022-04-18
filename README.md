@@ -91,11 +91,10 @@ The performance by type after removing the data is below.
 There was not a measurable impact to the performance schores by type of shcool after removing the THS Freshman data.
 
 #  Summary
-
--    Replacing the THS Freshman scores with null values:
-    -    Had very little impact at the District level - overall scores changed only slightly
-    -    Thomas High School percentage passing values dropped measurably
-    -    Scores sliced by spending categories were impacted in the category measurably.
-    -    Scores by size of school and type did not change 
+Replacing the THS Freshman scores with null values:
+-    Had very little impact at the District level - overall scores changed only slightly
+-    Thomas High School percentage passing values dropped measurably
+-    Scores sliced by spending categories were impacted in the category measurably.
+-    Scores by size of school and type did not change 
 
 In analytical categories or groupings where the number of scores removed from the analysis represented a higher percentage of the sample population, the scores were impacted measurbly.  Conversely, in slices of the data where the number of scores removed represented only a small sample of the population, such as the District Summary, then the scores were impacted only slightly.
