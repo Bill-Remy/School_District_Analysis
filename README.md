@@ -22,7 +22,7 @@ The District asked to see how the analysis was impacted by the removal of the TH
 In order to remove the THS Freshman data from the analysis the following steps were used:
 - Locate all the THS Freshman records in the data set
 - Set the math and reading scores to null
-- Remove or drop the THS records with "null" values
+
 
 After removing the data, the analysis of the district and schools was repeated with the revised data set.
 #  Analytical Results
