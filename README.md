@@ -57,7 +57,7 @@ After removing the scores, THS performance relative to other schools dropped mea
 -    ##  Math and Reading by Grade
 After replacing the THS Freshman math and reading scores with null values, you can see in the data frame prints for both that the "nan" appears instead of a score as shown in the Reading Scores by Grade frame below.  The math frame would look similar.
 
-<img src="Resources/THS Reading Scores by Grade.png" alt="Resources/THS Reading Scores by Grade.png" width ="700" height="100">
+<img src="Resources/THS Reading Scores by Grade.png" alt="Resources/THS Reading Scores by Grade.png" width ="700" >
 
 -    ## School Spending Comparison
 
